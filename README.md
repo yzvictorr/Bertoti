@@ -124,7 +124,7 @@ Passo 5: Criação dos testes unitários com JUnit
 </dependencies>
 
 # Atividade 4
-
+```
            +----------------------+
            |       Pessoa         |
            +----------------------+
@@ -165,3 +165,4 @@ Passo 5: Criação dos testes unitários com JUnit
         +--------------------+
         | + confirmarMatricula()|
         +--------------------+
+```
