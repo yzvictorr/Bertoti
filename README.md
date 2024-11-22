@@ -26,7 +26,7 @@ mas é mais complexa e exige uma gestão mais sofisticada.
 # Atividade 3
 
 Passo 1: Criação da classe Produto
-
+```
 public class Produto {
     private String codigo;
     private String nome;
@@ -58,9 +58,9 @@ public class Produto {
         return "Produto [codigo=" + codigo + ", nome=" + nome + "]";
     }
 }
-
+```
 Passo 2: Criação da classe ProdutoRepository
-
+```
 import java.util.HashMap;
 import java.util.Map;
 
@@ -77,9 +77,9 @@ public class ProdutoRepository {
         return produtos.get(codigo);
     }
 }
-
+```
 Passo 3: Criação da classe ProdutoService
-
+```
 public class ProdutoService {
     private ProdutoRepository produtoRepository;
 
@@ -97,17 +97,17 @@ public class ProdutoService {
         return produto;
     }
 }
-
+```
 Passo 4: Criação da exceção ProdutoNaoEncontradoException
-
+```
 public class ProdutoNaoEncontradoException extends RuntimeException {
     public ProdutoNaoEncontradoException(String mensagem) {
         super(mensagem);
     }
 }
-
+```
 Passo 5: Criação dos testes unitários com JUnit
-
+```
 <dependencies>
     <dependency>
         <groupId>org.junit.jupiter</groupId>
@@ -122,7 +122,7 @@ Passo 5: Criação dos testes unitários com JUnit
         <scope>test</scope>
     </dependency>
 </dependencies>
-
+```
 # Atividade 4
 ```
            +----------------------+
