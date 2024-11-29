@@ -11,7 +11,7 @@ O protocolo de consistência estrita, como o "ACID" (Atomicidade, Consistência,
 pois as operações de leitura e gravação precisam ser sincronizadas em todos os nós. Se for priorizado o desempenho, por exemplo,
 usando um modelo eventual de consistência, a consistência dos dados pode ser temporariamente comprometida, mas as transações se tornam mais rápidas.
 
--Latência vs. Consumo de Recursos:
+- Latência vs. Consumo de Recursos:
 Se for dada prioridade à portabilidade, a aplicação pode ser desenvolvida usando uma linguagem ou framework multiplataforma, como Java ou Electron.
 Isso pode resultar em um desempenho inferior, pois a aplicação pode não tirar proveito das otimizações específicas de cada sistema operacional.
 Se o desempenho for mais importante, pode-se optar por desenvolver versões específicas para cada plataforma, o que aumenta o esforço de manutenção,
