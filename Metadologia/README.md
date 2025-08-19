@@ -26,6 +26,8 @@ A partir da apresentação do **desafio enfrentado pela empresa parceira**, a so
 
 Conta ainda com um **painel interativo**, que oferece uma visão destacada de todas as atividades, facilitando a análise e o acompanhamento dos dados relacionados à **gestão de pessoas e processos**. Através dessa solução, os administradores podem **tomar decisões com base em métricas, padrões e indicadores relevantes** ao desempenho e à organização interna.
 
+🔗 [Repositório no GitHub](https://github.com/DenariusData/API-3SEM)
+
 ## 🛠️ Tecnologias Utilizadas
 - **MySQL** – Base de dados principal da aplicação, responsável pelo armazenamento seguro e estruturado das informações.  
 - **Java + Spring Boot** – Backend responsável pelas regras de negócio e disponibilização de APIs REST.  
