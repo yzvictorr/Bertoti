@@ -29,7 +29,7 @@ Um dos principais diferenciais do sistema é a presença de um mapa interativo, 
 
 A solução integra backend, frontend e banco de dados, garantindo consistência das informações e desempenho no processamento e exibição dos dados.
 
-🔗 Repositório no GitHub
+🔗 [Repositório no GitHub](https://github.com/DenariusData/API-4SEM)
 
 🛠️ Tecnologias Utilizadas
 MySQL / PostgreSQL – Armazenamento e gerenciamento dos dados.
