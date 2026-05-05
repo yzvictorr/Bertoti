@@ -32,15 +32,18 @@ MySQL – Armazenamento e gerenciamento dos dados.
 Java – Desenvolvimento da lógica da aplicação.
 HTML / CSS / JavaScript – Construção da interface do usuário.
 GitHub – Versionamento e colaboração no projeto.
+
 🧑‍🎓 Contribuições Pessoais
 Desenvolvimento Backend: implementação de funcionalidades básicas para manipulação de dados.
 Modelagem de Dados: participação na criação da estrutura do banco de dados.
 Integração Frontend/Backend: auxílio na comunicação entre as camadas do sistema.
 Organização do Projeto: colaboração no versionamento e estruturação do repositório.
+
 💻 Hard Skills
 Java – Desenvolvimento de lógica de programação.
 SQL – Criação e manipulação de dados em banco relacional.
 Git – Versionamento de código.
+
 🤝 Soft Skills
 Trabalho em Equipe – Colaboração no desenvolvimento do projeto.
 Comunicação – Participação nas discussões do time.
